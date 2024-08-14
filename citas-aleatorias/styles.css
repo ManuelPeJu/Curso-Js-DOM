@@ -32,7 +32,7 @@ body {
 }
 
 .inner-container {
-    max-width: 80%;
+    width: 80%;
 }
 
 /* CONTENT */
@@ -58,8 +58,9 @@ body {
     width: 100%;
     font-size: 25px;
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+    padding: 20px;
     font-family: 'Courgette', cursive;
 
 }
