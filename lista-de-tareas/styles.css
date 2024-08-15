@@ -112,4 +112,5 @@ i {
 .icon-complete:hover,
 .icon-remove:hover {
     background-color: rgba(255, 255, 255, 0.523);
+    border-radius: 25px;
 }
